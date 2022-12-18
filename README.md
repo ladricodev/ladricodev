@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ladricodev
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning pixel art and game development while I'm wokring on a projject
+- 💞️ I’m looking to collaborate on new indie game developers to learn from each other.
+- 📫 How to reach me: ladricogames@gmail.com
